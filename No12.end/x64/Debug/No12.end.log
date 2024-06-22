@@ -1,0 +1,6 @@
+﻿  here.c
+C:\Users\35316\Desktop\.vs\No12.end\No12.end\here.c(73,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\35316\Desktop\.vs\No12.end\No12.end\here.c(80,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\35316\Desktop\.vs\No12.end\No12.end\here.c(81,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\35316\Desktop\.vs\No12.end\No12.end\here.c(83,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  No12.end.vcxproj -> C:\Users\35316\Desktop\.vs\No12.end\x64\Debug\No12.end.exe
